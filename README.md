@@ -1,5 +1,5 @@
 # head-spinning-HTML+CSS+GSAP
 
-
-
-![](head-gif.gif)
+<div align="center">
+    <img src="./uhul.gif"/>
+</div>
